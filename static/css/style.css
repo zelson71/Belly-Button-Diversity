@@ -1,0 +1,12 @@
+.jumbotron{
+    background: rgb(218,60,12);
+background: linear-gradient(90deg, rgba(218,60,12,1) 0%, rgba(236,226,12,1) 35%, rgba(255,0,228,1) 100%);
+}
+.img-thumbnail{
+    max-width: 1em;
+}
+
+.well{
+    background: rgba(255,0,228,1);
+background: linear-gradient(90deg, rgba(255,0,228,1) 0%, rgba(236,226,12,1) 35%,  rgba(218,60,12,1) 100%); 
+}
